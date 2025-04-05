@@ -42,8 +42,10 @@ To train the model from scratch:
 
 ```bash
 python train.py
-Training and evaluation logs are recorded with Weights & Biases, including accuracy and loss metrics.
 ```
+
+Training and evaluation logs are recorded with Weights & Biases, including accuracy and loss metrics.
+
 
 ## 🧪 Results
 
