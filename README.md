@@ -51,3 +51,5 @@ Training and evaluation logs are recorded with Weights & Biases, including accur
 ![Training Metrics](train_sc.png)
 
 ### 📈 Evaluation Metrics
+![Evaluation Metrics](eval_sc.png)
+
